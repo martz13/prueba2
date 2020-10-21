@@ -23,5 +23,5 @@ Underline 2
 # Links
 <a href="https://www.youtube.com/watch?v=SqGpCMO4kW8">Esto es un link HTML</a
          
-![Logo proyecto](https://www.google.com/search?q=panterino&client=firefox-b-d&sxsrf=ALeKk01_RvjrVc9VpAo6Jp-j7sM3vBEtHQ:1603283708474&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYqquf2cXsAhVCVK0KHTWAAxkQ_AUoAXoECBsQAw&biw=1366&bih=654#imgrc=a_BsFURS-7i5DM)
+![Logo proyecto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpanterino&psig=AOvVaw0VKWpEsaCn0561uKVMjezU&ust=1603370111197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDdvLbZxewCFQAAAAAdAAAAABAD)
 
