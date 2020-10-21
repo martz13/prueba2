@@ -7,4 +7,10 @@
 Underline
 _____________
 
-Underline 2 =============
+Underline 2
+=============
+
+- formato *cursiva* de la primera forma
+- formato _cursiva_ de la primera forma
+- formato **negrita**
+- formato __negrita2__
