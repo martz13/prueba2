@@ -8,7 +8,7 @@ Underline
 _____________
 
 Underline 2
-=============
+============
 
 - formato *cursiva* de la primera forma
 - formato _cursiva_ de la primera forma
