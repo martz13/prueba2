@@ -32,6 +32,7 @@ Underline 2
 
 ## Citas
 >esto es una cita
+
 texto normal
 
 >otra cita
