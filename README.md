@@ -14,3 +14,6 @@ Underline 2
 - formato _cursiva_ de la primera forma
 - formato **negrita**
 - formato __negrita2__
+- formato ~~sub~~
+
+
