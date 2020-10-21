@@ -16,4 +16,12 @@ Underline 2
 - formato __negrita2__
 - formato ~~sub~~
 
+1. hola
+2. adios
+3. como estas
+
+# Links
+<a href="https://www.youtube.com/watch?v=SqGpCMO4kW8>Esto es un link HTML</a>
+         
+
 
